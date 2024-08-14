@@ -1,7 +1,3 @@
-Here's a complete description that you can use for your GitHub repository. This description will cover the purpose of the project, the key components of the code, how it works, and instructions on how to run the code.
-
----
-
 # Character-Level Text Generation Using a Recurrent Neural Network (RNN) from Scratch
 
 ## Overview
